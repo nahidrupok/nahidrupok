@@ -1,7 +1,7 @@
 # Hi, I'm Nahid Rupok 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nahidrupok/nahidrupok/main/profile-banner.png" alt="banner" width="100%" />
+  <img src="https://www.facebook.com/photo/?fbid=2343083226150856&set=pb.100013476038224.-2207520000" alt="banner" width="100%" />
 </div>
 
 ## About Me
